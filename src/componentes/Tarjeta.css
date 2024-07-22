@@ -1,0 +1,30 @@
+
+
+.tarjeta{
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #C89F9C;
+    background-color:#EED7C5;
+    padding: 10px;
+    text-align: center;
+    color: #B36A5E;
+    
+}
+.tarjeta:hover{
+    background-color: #C89F9C;
+    color: #EED7C5;
+}
+
+.titulo-tarjeta{
+    color: #C97C5D;
+    text-decoration-color: #C97C5D;
+    
+
+}
+
+.titulo-tarjeta:hover{
+    color: #EED7C5;
+    text-decoration-color: #EED7C5;
+    
+}
+

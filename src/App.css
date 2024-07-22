@@ -1,0 +1,18 @@
+
+.App h1 {
+  text-align: center;
+  color: #B36A5E;
+}
+
+.container{
+  display: flex;
+  gap: 10px; /* Aquí se define el espacio entre filas y columnas */
+  flex-wrap: wrap; /* Aquí se define si se ajusta al tamaño del contenedor */
+  justify-content: center;
+  overflow: hidden;
+  transition: transform 0.3s ease-out;
+}
+
+.container:hover{
+  transform: scale(1.02);
+}
